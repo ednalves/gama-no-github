@@ -1,0 +1,1 @@
+Adorei o começo, me embolei toda no começo do módulo Git, mas agora estou conseguindo acompanhar de boa.
